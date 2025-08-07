@@ -1,5 +1,6 @@
 export default function Minuli(){
     return(
-        <h1>hii</h1>
+        <h1>hiiiiii</h1>
+
     )
 }
