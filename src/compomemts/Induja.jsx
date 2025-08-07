@@ -1,5 +1,5 @@
 export default function Induja(){
     return (
-        <h1>hiiii</h1>
+        <h1>welcome</h1>
     )
 }
